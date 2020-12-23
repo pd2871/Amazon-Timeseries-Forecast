@@ -1,0 +1,944 @@
+item_id,target_value,timestamp
+Maddux Airlines,16.0,1930-01-19 18:23:00
+Trans Continental and Western Air,8.0,1931-03-31 10:45:00
+Rapid Air Transport,5.0,1934-08-31 23:42:00
+Trans Continental and Western Air,5.0,1935-05-06 03:30:00
+Delta Air Lines,4.0,1935-08-14 23:45:00
+United Air Lines,12.0,1935-10-07 02:19:00
+American Airlines,17.0,1936-01-14 19:32:00
+Trans Continental and Western Air,13.0,1936-04-07 10:20:00
+Western Air Express,7.0,1936-12-15 03:14:00
+Eastern Air Lines,14.0,1936-12-19 20:47:00
+United Air Lines,12.0,1936-12-27 19:38:00
+Western Air Express,5.0,1937-01-12 11:07:00
+United Air Lines,11.0,1937-02-09 20:50:00
+Trans Continental and Western Air,13.0,1937-03-25 18:40:00
+Deutsche Zeppelin Reederei,35.0,1937-05-06 19:25:00
+Eastern Air Lines,4.0,1937-08-10 04:40:00
+United Air Lines,19.0,1937-10-17 21:00:00
+Northwest Orient Airlines,10.0,1938-01-10 15:07:00
+Pan American World Airways,7.0,1938-01-11 19:40:00
+Trans Continental and Western Air,9.0,1938-03-01 21:30:00
+United Air Lines,10.0,1938-05-24 22:17:00
+Pan American World Airways,15.0,1938-07-29 04:11:00
+United Air Lines,7.0,1938-11-29 05:30:00
+Northwest Orient Airlines,4.0,1939-01-13 21:15:00
+Braniff Airlines,8.0,1939-03-26 14:48:00
+Pennsylvania Central Airlines,25.0,1940-08-31 14:41:00
+United Air Lines,10.0,1940-11-04 04:42:00
+United Air Lines,10.0,1940-12-04 17:48:00
+Trans Continental and Western Air,2.0,1941-01-23 04:13:00
+Eastern Air Lines,9.0,1941-02-26 11:50:00
+Pan American World Airways,2.0,1941-10-03 17:48:00
+Northwest Orient Airlines,14.0,1941-10-30 02:04:00
+American Airlines,20.0,1941-10-30 22:10:00
+Trans Continental and Western Air,22.0,1942-01-16 19:23:00
+United Air Lines,17.0,1942-05-01 23:00:00
+Northwest Orient Airlines,3.0,1942-05-12 11:51:00
+American Export Airlines,11.0,1942-10-03 19:05:00
+American Airlines / Military - USAF,12.0,1942-10-23 17:15:00
+Western Airlines,17.0,1942-12-15 01:22:00
+Pan American World Airways,19.0,1943-01-21 07:30:00
+Pan American Grace Airlines,14.0,1943-01-22 15:15:00
+Pan American World Airways,25.0,1943-02-22 06:47:00
+British Overseas Airways,17.0,1943-06-01 11:00:00
+American Airlines,20.0,1943-07-28 22:43:00
+American Airlines,15.0,1943-10-15 23:17:00
+American Airlines,24.0,1944-02-10 23:36:00
+Pan American World Airways,17.0,1944-08-08 13:20:00
+Trans Continental and Western Air,24.0,1944-11-04 17:15:00
+Trans Continental and Western Air,9.0,1944-12-01 00:54:00
+Pan American World Airways,23.0,1945-01-08 21:16:00
+American Airlines,24.0,1945-01-10 04:10:00
+American Airlines,17.0,1945-02-23 02:25:00
+Pennsylvania Central Airlines,20.0,1945-04-14 16:58:00
+Eastern Air Lines / Military - U.S. Army Air Corps,3.0,1945-07-12 14:36:00
+Pan American World Airways,4.0,1945-08-03 10:11:00
+Eastern Air Lines,22.0,1945-09-07 02:13:00
+National Airlines,2.0,1945-10-05 01:05:00
+Eastern Air Lines,1.0,1945-12-30 21:13:00
+Pennsylvania Central Airlines,3.0,1946-01-06 03:59:00
+Eastern Air Lines,17.0,1946-01-18 11:03:00
+United Air Lines,21.0,1946-01-31 02:47:00
+American Airlines,27.0,1946-03-03 08:12:00
+Trans Luxury Airlines,2.0,1946-08-21 04:19:00
+Trans-Luxury Airlines,21.0,1946-09-05 02:00:00
+United Air Lines,2.0,1946-10-08 04:33:00
+National Air Transport Services,13.0,1946-10-17 00:57:00
+United Air Lines,2.0,1946-11-11 03:30:00
+Western Airlines,11.0,1946-11-13 03:41:00
+Western Airlines,12.0,1946-12-24 19:19:00
+American Airlines,2.0,1946-12-28 09:19:00
+Trans Continental and Western Air,13.0,1946-12-28 02:09:00
+Eastern Air Lines,18.0,1947-01-12 01:38:00
+Trans Canada Air Lines,15.0,1947-04-28 23:13:00
+United Air Lines,43.0,1947-05-29 19:05:00
+Eastern Air Lines,53.0,1947-05-30 17:41:00
+Pennsylvania Central Airlines,50.0,1947-06-13 18:16:00
+Pan American World Airways,14.0,1947-06-19 23:40:00
+American Airlines,0.0,1947-10-08 07:55:00
+United Air Lines,53.0,1947-10-24 12:29:00
+Pan American World Airways,18.0,1947-10-26 13:45:00
+AB Aerotransport,44.0,1947-10-26 17:20:00
+Alaska Airlines,8.0,1947-11-30 14:25:00
+Eastern Air Lines,5.0,1948-01-13 04:36:00
+Delta Air Lines,12.0,1948-03-10 22:58:00
+Northwest Orient Airlines,30.0,1948-03-12 21:14:00
+Pan American World Airways,30.0,1948-04-15 02:35:00
+United Air Lines,43.0,1948-06-17 12:41:00
+Northwest Orient Airlines,37.0,1948-08-29 17:05:00
+Northwest Orient Airlines,2.0,1948-10-27 16:50:00
+Alaska Airlines,5.0,1949-01-20 20:05:00
+Standard Airlines,35.0,1949-07-12 07:43:00
+Eastern Air Lines / Military - USN,16.0,1949-07-30 10:45:00
+Eastern Air Lines / Military - Bolivian Air Force,55.0,1949-11-01 11:45:00
+American Airlines,28.0,1949-11-29 05:49:00
+Capital Airlines,6.0,1949-12-12 20:45:00
+Northwest Orient Airlines,13.0,1950-03-07 20:59:00
+Northwest Orient Airlines,58.0,1950-06-23 23:25:00
+Trans World Airlines,55.0,1950-08-31 00:03:00
+Robinson Airlines,16.0,1950-09-04 14:10:00
+Air India,48.0,1950-11-03 09:43:00
+Northwest Orient Airlines,21.0,1950-11-06 08:15:00
+Canadian PacifiAir Lines,2.0,1950-12-22 13:53:00
+National Airlines,7.0,1951-01-14 14:13:00
+Northwest Orient Airlines,10.0,1951-01-16 12:14:00
+Mid Continent Airlines,16.0,1951-03-02 09:12:00
+Southwest Airways,22.0,1951-04-06 20:30:00
+Cubana de Aviacion / Military -  US Navy,43.0,1951-04-25 11:49:00
+United Air Lines,11.0,1951-04-28 19:32:00
+Pan American World Airways,40.0,1951-06-22 03:25:00
+United Air Lines,50.0,1951-06-30 02:00:00
+United Air Lines,50.0,1951-08-24 04:28:00
+Transocean Air Lines,1.0,1951-11-05 09:29:00
+Continental Charters,26.0,1951-12-29 22:25:00
+Transocean Air Lines,4.0,1951-12-30 22:07:00
+Northwest Orient Airlines,36.0,1952-01-19 01:38:00
+American Airlines,23.0,1952-01-22 15:43:00
+Flying Tiger Line,7.0,1953-01-07 20:55:00
+Pan American World Airways,52.0,1952-04-11 12:20:00
+North Continental Airlines (Robin Airlines),29.0,1952-04-18 03:34:00
+Pan American World Airways,50.0,1952-04-29 04:40:00
+British Overseas Airways,1.0,1952-05-26 08:45:00
+Pan American World Airways,1.0,1952-07-27 11:46:00
+Associated Air Transport,40.0,1953-01-07 04:12:00
+National Airlines,46.0,1953-02-14 17:10:00
+Transocean Air Lines,35.0,1953-03-20 18:38:00
+Western Airlines,8.0,1953-04-20 23:08:00
+British Overseas Airways,43.0,1953-05-02 16:35:00
+Delta Air Lines,19.0,1953-05-17 14:15:00
+Transocean Air Lines,58.0,1953-07-12 08:41:00
+American Airlines,28.0,1953-09-16 08:34:00
+Eastern Air Lines,2.0,1953-10-19 00:56:00
+British Commonwealth PacifiAirlines,19.0,1953-10-29 08:44:00
+British Overseas Airways,35.0,1954-01-10 09:50:00
+Western Airlines,9.0,1954-02-26 10:32:00
+British Overseas Airways,21.0,1954-04-08 19:10:00
+Braniff Airlines,12.0,1954-08-22 17:03:00
+KLM Royal Dutch Airlines,28.0,1954-09-05 02:30:00
+Northeast Airlines,2.0,1954-11-30 11:15:00
+Linee Aeree Italiane,26.0,1954-12-18 14:00:00
+Johnson Flying Service,10.0,1954-12-22 23:00:00
+United Air Lines,0.0,1955-01-19 16:25:00
+Trans World Airlines,16.0,1955-02-19 07:31:00
+Central African Airways,1.0,1955-02-23 09:20:00
+American Airlines,13.0,1955-03-20 22:36:00
+Pan American World Airways,4.0,1955-03-26 11:12:00
+Braniff Airlines,22.0,1955-07-17 06:24:00
+El Al,58.0,1955-07-27 07:40:00
+United Air Lines,66.0,1955-10-06 07:26:00
+United Air Lines,44.0,1955-11-01 19:03:00
+Peninsular,28.0,1955-11-17 23:59:00
+Eastern Air Lines,17.0,1955-12-21 03:43:00
+Trans World Airlines,22.0,1956-04-01 19:20:00
+Northwest Orient Airlines,5.0,1956-04-02 08:10:00
+Cordova Airlines,6.0,1956-04-09 09:51:00
+United Air Lines / Trans World Airlines,128.0,1956-06-30 10:32:00
+Trans Canada Air Lines,1.0,1956-07-09 13:53:00
+Canadian PacifiAir Lines,15.0,1956-08-29 20:45:00
+Alaska Airlines,5.0,1956-10-02 18:25:00
+Pan American World Airways,0.0,1956-10-16 06:15:00
+Linea Aeropostal Venezolana,25.0,1956-11-27 07:50:00
+Trans Canada Air Lines,62.0,1956-12-09 19:15:00
+American Airlines,1.0,1957-01-06 00:01:00
+Northeast Airlines,21.0,1957-02-01 18:02:00
+Alaska Airlines,5.0,1957-03-02 17:19:00
+REAL,26.0,1957-04-10 15:20:00
+Aviaco,37.0,1957-05-09 19:04:00
+LOT Polish Airlines,9.0,1957-06-14 23:10:00
+KLM Royal Dutch Airlines,58.0,1957-07-16 03:36:00
+Western Airlines,1.0,1957-07-25 03:37:00
+Northeast Airlines,12.0,1957-09-15 20:46:00
+Pan American World Airways,44.0,1957-11-09 16:27:00
+British European Airways,23.0,1958-02-06 14:17:00
+Capital Airlines,47.0,1958-04-06 23:19:00
+AREA,32.0,1958-04-07 09:00:00
+United Air Lines / Military - U.S. Air Force,49.0,1958-04-21 08:30:00
+Capital Airlines / Military - Air National Guard,11.0,1958-05-20 11:29:00
+KLM Royal Dutch Airlines,99.0,1958-08-14 03:45:00
+British European Airways,31.0,1958-10-22 11:50:00
+Cubana de Aviacion,17.0,1958-11-01 02:01:00
+Union Aeromaritime de Transport,3.0,1958-12-26 12:52:00
+Southeast Airlines,10.0,1959-01-08 20:32:00
+Air Jordan,10.0,1959-01-22 15:00:00
+Dwyer Flying Service - Private Charter,4.0,1959-02-03 01:00:00
+American Airlines,65.0,1959-02-03 23:56:00
+Capital Airlines,2.0,1959-05-12 15:29:00
+Capital Airlines,31.0,1959-05-12 16:13:00
+Trans World Airlines,68.0,1959-06-26 17:35:00
+American Airlines,5.0,1959-08-15 16:42:00
+Reeve Aleutian Airlines,16.0,1959-09-24 17:20:00
+Braniff Airlines,34.0,1959-09-29 23:09:00
+PacifiAir Lines,1.0,1959-10-26 20:18:00
+OlympiAirways,18.0,1959-10-29 15:25:00
+Piedmont Airlines,26.0,1959-10-30 20:40:00
+Wheeler Airlines,5.0,1959-11-04 23:07:00
+National Airlines,42.0,1959-11-16 00:55:00
+Trans World Airlines,3.0,1959-11-24 05:35:00
+Allegheny Airlines,25.0,1959-12-01 09:47:00
+National Airlines,34.0,1960-01-06 02:38:00
+Capital Airlines,50.0,1960-01-18 22:19:00
+Scandinavian Airlines (SAS),42.0,1960-01-19 18:47:00
+Northwest Orient Airlines,63.0,1960-03-17 15:25:00
+SAMSA,25.0,1960-03-19 11:10:00
+Lloyd Aereo Colombiano,37.0,1960-04-19 20:48:00
+PacifiNorthern Airlines,14.0,1960-06-14 04:47:00
+Northwest Orient Airlines,1.0,1960-07-14 04:30:00
+Ethiopian Airlines,1.0,1960-07-15 09:40:00
+Air France,63.0,1960-08-29 06:50:00
+World Airways,80.0,1960-09-19 06:02:00
+Austrian Airlines,31.0,1960-09-26 23:40:00
+United Arab Airlines,21.0,1960-09-29 12:15:00
+Eastern Air Lines,62.0,1960-10-04 17:40:00
+Northwest Orient Airlines,12.0,1960-10-28 11:39:00
+LAN,24.0,1961-04-03 23:57:00
+Air France,78.0,1961-05-10 02:30:00
+United Air Lines / Trans World Airlines,128.0,1960-12-16 10:33:00
+Philippine Air Lines,28.0,1960-12-22 12:31:00
+Finnair,25.0,1961-01-03 07:40:00
+Aeronaves de Mexico,4.0,1961-01-19 20:25:00
+Garuda Indonesia Airlines,21.0,1961-01-24 02:48:00
+Garuda Indonesia Airlines,26.0,1961-02-03 23:55:00
+Sabena,72.0,1961-02-15 10:05:00
+KLM Royal Dutch Airlines,61.0,1961-05-30 01:20:00
+KLM Royal Dutch Airlines,20.0,1961-06-12 04:11:00
+United Air Lines,17.0,1961-07-11 11:36:00
+Trans World Airlines,78.0,1961-09-01 02:05:00
+Air France,77.0,1961-09-12 22:09:00
+Northwest Orient Airlines,37.0,1961-09-17 08:57:00
+Imperial Airways,77.0,1961-11-08 21:24:00
+American Airlines,95.0,1962-03-01 10:09:00
+Caledonian Airways,111.0,1962-03-04 18:20:00
+Flying Tiger Line,1.0,1962-03-15 01:14:00
+Flying Tiger Line,107.0,1962-03-15 00:30:00
+Continental Airlines,45.0,1962-05-22 21:21:00
+Air France,112.0,1962-06-22 04:01:00
+Alitalia,94.0,1962-07-07 23:59:00
+United Arab Airlines,26.0,1962-07-19 15:45:00
+Canadian PacifiAir Lines,27.0,1962-07-22 23:19:00
+Flying Tiger Line,28.0,1962-09-23 21:00:00
+Allegheny Airlines,1.0,1962-10-19 20:52:00
+United Air Lines,18.0,1962-11-23 12:24:00
+Malev Hungarian Airlines,21.0,1962-11-23 14:10:00
+Varig,97.0,1962-11-27 03:40:00
+Eastern Air Lines,25.0,1962-11-30 21:45:00
+Taxader Airlines,24.0,1962-12-06 17:00:00
+Flying Tiger Line,5.0,1962-12-14 22:12:00
+West Coast Airlines,3.0,1963-01-17 15:53:00
+Continental Airlines,8.0,1963-01-29 22:44:00
+Middle East Airlines / Military - Turkish Air ForceC-47,17.0,1963-02-01 17:15:00
+Northwest Orient Airlines,43.0,1963-02-12 13:48:00
+Philippine Air Lines,27.0,1963-03-02 10:02:00
+Private,4.0,1963-03-05 18:20:00
+Lloyd Aereo Boliviano,41.0,1963-03-15 13:55:00
+Northwest Orient Airlines,101.0,1963-06-03 10:16:00
+Mohawk Airlines,7.0,1963-07-02 15:49:00
+New Zealand National Airways,23.0,1963-07-03 09:09:00
+United Arab Airlines,63.0,1963-07-27 01:50:00
+Air Inter,20.0,1963-08-12 13:19:00
+Swissair,80.0,1963-09-04 06:22:00
+New York Airways,6.0,1963-10-14 11:33:00
+Finnair,22.0,1963-11-08 17:59:00
+Trans Canada Air Lines,118.0,1963-11-29 18:33:00
+Pan American World Airways,81.0,1963-12-08 20:59:00
+South Central Airlines,10.0,1964-02-03 08:00:00
+Philippine Air Lines,31.0,1964-02-21 16:00:00
+Eastern Air Lines,58.0,1964-02-25 02:06:00
+Fuji Airlines,20.0,1964-02-27 06:15:00
+British Eagle International Airlines,83.0,1964-02-29 14:14:00
+Paradise Airlines,85.0,1964-03-01 11:29:00
+Slick Airways - Cargo,3.0,1964-03-10 08:22:00
+Frontier Airlines,5.0,1964-03-12 20:50:00
+Alitalia,45.0,1964-03-28 22:39:00
+Private - Facilities Management Co.,9.0,1964-03-28 06:00:00
+PacifiAir Lines,44.0,1964-05-07 06:49:00
+Trans World Airlines,50.0,1964-11-23 13:09:00
+United Air Lines,39.0,1964-07-09 18:15:00
+Bonanza Airlines,29.0,1964-11-15 20:25:00
+LAN,87.0,1965-02-06 08:36:00
+Eastern Air Lines,84.0,1965-02-08 18:26:00
+Fairways,10.0,1965-03-08 10:30:00
+Eastern Provincial Airways,8.0,1965-03-17 09:22:00
+AVIANCA,28.0,1965-03-22 14:55:00
+Aaxico Airlines,5.0,1965-04-23 14:23:00
+Pakistan International Airlines,119.0,1965-05-20 23:48:00
+Continental Airlines,0.0,1965-07-01 05:29:00
+Canadian PacifiAir Lines,52.0,1965-07-08 16:40:00
+Military - U.S. Air Force,16.0,1965-07-11 22:22:00
+United Air Lines,30.0,1965-08-16 20:21:00
+Filipinas Orient Airways,11.0,1965-09-11 16:25:00
+Pan American World Airways,30.0,1965-09-17 11:25:00
+Philippine Air Lines,1.0,1965-10-20 10:33:00
+American Airlines,58.0,1965-11-08 19:02:00
+United Air Lines,43.0,1965-11-11 17:52:00
+Edde Airlines,13.0,1965-11-27 07:15:00
+Trans World Airlines / Eastern Air Lines,4.0,1965-12-04 16:18:00
+AVIANCA,56.0,1966-01-15 20:55:00
+Air India,117.0,1966-01-24 08:02:00
+Lufthansa,46.0,1966-01-28 17:50:00
+All Nippon Airways,133.0,1966-02-04 19:00:00
+Canadian PacifiAir Lines,64.0,1966-03-04 20:15:00
+British Overseas Airways,124.0,1966-03-05 14:15:00
+United Arab Airlines,30.0,1966-03-18 18:40:00
+American Flyers Airline,83.0,1966-04-22 20:30:00
+LANSA,49.0,1966-04-27 08:05:00
+Philippine Air Lines,24.0,1966-06-29 12:04:00
+Braniff Airlines,42.0,1966-08-06 23:12:00
+Britannia Airways,98.0,1966-09-01 00:47:00
+Ansett ANA,24.0,1966-09-22 13:03:00
+West Coast Airlines,18.0,1966-10-01 19:10:00
+Military - U.S. Air Force,19.0,1966-11-11 01:43:00
+All Nippon Airways,50.0,1966-11-13 20:30:00
+Transportno Aviatsionno Bulgaro-Soviet Obshchestvo,82.0,1966-11-24 16:30:00
+AVIANCA,29.0,1966-12-24 09:56:00
+Garuda Indonesia Airlines,22.0,1967-02-16 14:21:00
+Philippine Air Lines,12.0,1967-02-28 04:20:00
+Varig,51.0,1967-03-04 02:56:00
+Lake Central Airlines,38.0,1967-03-05 20:07:00
+Trans World Airlines / Private,26.0,1967-03-09 11:54:00
+South African Airways,25.0,1967-03-13 17:10:00
+Delta Air Lines,6.0,1967-03-30 00:45:00
+Military - U.S. Air Force,14.0,1967-04-25 19:05:00
+Mohawk Airlines,34.0,1967-06-23 13:47:00
+Philippine Air Lines,21.0,1967-07-06 18:43:00
+Piedmont Airlines / Private,82.0,1967-07-19 11:01:00
+Ceskoslovenske Aerolinie,37.0,1967-09-05 05:10:00
+British European Airways,66.0,1967-10-12 07:25:00
+Cathay PacifiAirways,1.0,1967-11-05 10:35:00
+Trans World Airlines,1.0,1967-11-06 18:41:00
+Trans World Airlines,70.0,1967-11-20 20:57:00
+Private,7.0,1967-12-10 15:25:00
+Thai Airways,4.0,1967-12-25 13:49:00
+Civil Air Transport,21.0,1968-02-16 21:20:00
+Air France,63.0,1968-03-06 20:32:00
+Air Manila,14.0,1968-03-08 19:18:00
+Aer Lingus,61.0,1968-03-24 10:59:00
+British Overseas Airways,5.0,1968-04-08 15:35:00
+South African Airways,123.0,1968-04-20 18:50:00
+Braniff Airlines,85.0,1968-05-03 15:48:00
+Piedmont Airlines,35.0,1968-08-10 07:57:00
+Air France,95.0,1968-09-11 10:30:00
+Northeast Airlines,32.0,1968-10-25 17:17:00
+Japan Air Lines,0.0,1968-11-22 01:24:00
+Cable Commuter,9.0,1968-11-23 19:59:00
+Wien Consolidated Airlines,39.0,1968-12-02 09:36:00
+Pan American World Airways,51.0,1968-12-12 22:02:00
+Allegheny Airlines,20.0,1968-12-24 20:12:00
+North Central Airlines,27.0,1968-12-27 20:22:00
+MaRobertson-Miller Airlines,26.0,1968-12-31 08:30:00
+China Airlines (Taiwan),24.0,1969-01-02 20:12:00
+Ariana Afghan Airlines,50.0,1969-01-05 02:35:00
+Allegheny Airlines,11.0,1969-01-06 20:35:00
+Scandinavian Airlines (SAS),15.0,1969-01-13 19:21:00
+United Air Lines,38.0,1969-01-18 18:21:00
+Mineral County Airlines,35.0,1969-02-18 05:10:00
+Venezolana Internacional de Aviacion,84.0,1969-03-16 12:00:00
+Compania Mexicana de Aviacion,79.0,1969-06-04 08:42:00
+Air South,14.0,1969-07-06 20:22:00
+Private Charter,3.0,1969-08-31 20:05:00
+Allegheny Airlines / Forth Corporation,83.0,1969-09-09 14:29:00
+PacifiWestern Airlines,4.0,1969-09-17 17:09:00
+Mohawk Airlines,14.0,1969-11-19 20:20:00
+Nigeria Airways,87.0,1969-11-20 08:30:00
+Polynesian Airlines,32.0,1970-01-13 06:00:00
+Pilgrim Airlines,5.0,1970-02-10 18:37:00
+Swissair,47.0,1970-02-21 13:34:00
+Antillian Airlines,23.0,1970-05-02 15:49:00
+Executive Jet Sales Inc.,6.0,1970-05-09 21:28:00
+Lehigh Acres Development Inc.,1.0,1970-05-30 09:30:00
+Air Canada,109.0,1970-07-05 08:09:00
+Flying Tiger Line,4.0,1970-07-27 11:35:00
+Trans International Airlines,11.0,1970-09-08 16:06:00
+"Charter, Golden Eagle Aviation Inc.",30.0,1970-10-02 12:00:00
+Southern Airways,75.0,1970-11-14 19:36:00
+Capital Airlines,47.0,1970-11-27 17:05:00
+Trans Caribbean Airways,2.0,1970-12-28 14:42:00
+American Airlines / Private,2.0,1971-01-09 16:20:00
+Balkan Bulgarian Airlines,45.0,1971-01-18 15:49:00
+Western Airlines,5.0,1971-03-31 06:33:00
+Aviogenex (Yugoslavia),78.0,1971-05-23 20:00:00
+Hughes Airwest  / Military - US Marine Air Corps,50.0,1971-06-06 17:11:00
+Allegheny Airlines,28.0,1971-06-07 08:49:00
+Toa DomestiAirline (Japan),68.0,1971-07-03 18:10:00
+All Nippon Airways /  Japanese Air Force,163.0,1971-07-30 14:00:00
+Pan American World Airways,0.0,1971-07-30 14:29:00
+Alaska Airlines,111.0,1971-09-04 11:15:00
+British European Airways,63.0,1971-10-02 11:10:00
+Lineas Aereas Nacionales SA (Peru),91.0,1971-12-24 12:36:00
+Iberia Airlines,104.0,1972-01-07 22:00:00
+JAT Yugoslav Airlines,27.0,1972-01-26 16:10:00
+Mohawk Airlines,16.0,1972-03-03 20:48:00
+Sterling Airways,112.0,1972-03-14 22:00:00
+East African Airways,43.0,1972-04-18 09:39:00
+Alitalia,115.0,1972-05-05 22:24:00
+Delta Air Lines,4.0,1972-05-30 06:24:00
+Japan Air Lines,82.0,1972-06-14 20:20:00
+Cathay PacifiAirways,81.0,1972-06-15 14:00:00
+British European Airways,118.0,1972-06-18 16:11:00
+Prinair,5.0,1972-06-24 23:17:00
+North Central Airlines / Air Wisconsin,13.0,1972-06-29 09:37:00
+Air Inter,60.0,1972-10-27 19:20:00
+Japan Air Lines,62.0,1972-11-28 19:51:00
+United Air Lines,43.0,1972-12-08 14:28:00
+Delta Air Lines/ North Central Airlines,10.0,1972-12-20 18:00:00
+Eastern Air Lines,103.0,1972-12-29 23:42:00
+Libya Arab Airlines,110.0,1973-02-21 14:10:00
+Balkan Bulgarian Airlines,25.0,1973-03-03 12:45:00
+Lineas Aereas de Espana/Spantax SA Transportes,68.0,1973-03-05 13:50:00
+Varig,123.0,1973-07-11 14:03:00
+Pan American World Airways,78.0,1973-07-22 22:07:00
+Ozark Air Lines,38.0,1973-07-23 16:43:00
+Delta Air Lines,89.0,1973-07-31 10:08:00
+Aeroflot,119.0,1973-10-13 20:15:00
+Aviaco,85.0,1973-08-13 11:40:00
+Trans World Airlines,1.0,1973-08-28 20:50:00
+Private Charter,6.0,1973-09-20 22:45:00
+Texas International Airlines,11.0,1973-09-27 19:52:00
+National Airlines,1.0,1973-11-03 16:40:00
+Pan American World Airways,3.0,1973-11-03 09:39:00
+Pan American World Airways,30.0,1973-12-17 13:00:00
+Pan American World Airways,96.0,1974-01-30 23:41:00
+Turkish Airlines (THY),346.0,1974-03-03 11:41:00
+Sierra PacifiAirlines,36.0,1974-03-13 19:28:00
+Pan American World Airways,107.0,1974-04-22 15:26:00
+Aerolineas TAO,44.0,1974-06-08 17:30:00
+Trans World Airlines,88.0,1974-09-08 09:40:00
+Eastern Air Lines,70.0,1974-09-11 07:34:00
+Air Vietnam (South Vietnam),75.0,1974-09-15 11:00:00
+Lufthansa,59.0,1974-11-20 07:50:00
+Northwest Orient Airlines,3.0,1974-12-01 19:26:00
+Trans World Airlines,92.0,1974-12-01 11:10:00
+Golden West Airlines / Private,14.0,1975-01-09 16:07:00
+Eastern Air Lines,113.0,1975-06-24 16:05:00
+Continental Airlines,0.0,1975-08-07 16:11:00
+Ceskoslovenske Aerolinie,126.0,1975-08-20 01:15:00
+Wien Air Alaska,10.0,1975-08-30 13:57:00
+Middle East Airlines,82.0,1976-01-01 05:30:00
+Alaska Airlines,1.0,1976-04-05 08:19:00
+American Airlines,37.0,1976-04-27 15:10:00
+Military - Imperial Iranian Air Force,17.0,1976-05-09 16:30:00
+Air Manila,45.0,1976-06-04 14:48:00
+Aeroflot / Aeroflot,90.0,1976-09-09 14:50:00
+Inex Adria Aviopromet / British Airways,176.0,1976-09-10 10:15:00
+Cubana de Aviacion,73.0,1976-10-06 13:24:00
+AtlantiCity Airlines,3.0,1976-12-12 23:26:00
+EgyptAir,53.0,1976-12-25 03:45:00
+Aeroflot,96.0,1977-01-13 18:15:00
+Pan American World Airways / KLM,583.0,1977-03-27 17:07:00
+Southern Airways,62.0,1977-04-04 16:19:00
+Alaska Aeronautical Industries,13.0,1977-09-06 14:52:00
+TAP (Air Portugal),131.0,1977-11-19 21:48:00
+Malaysia Airlines,100.0,1977-12-04 20:15:00
+"National Jet Services Inc.,  (Air Indiana)",29.0,1977-12-13 19:22:00
+Air India,213.0,1978-01-01 20:15:00
+Columbia PacifiAirlines,17.0,1978-02-10 16:50:00
+PacifiWestern Airlines,42.0,1978-02-11 12:55:00
+Continental Airlines,2.0,1978-03-01 09:25:00
+National Airlines,3.0,1978-05-08 21:20:00
+Air Canada,2.0,1978-06-26 08:08:00
+Air Rhodesia,38.0,1978-09-03 17:30:00
+PacifiSouthwest Airlines / Private,137.0,1978-09-25 09:02:00
+Rocky Mountain Airways,2.0,1978-12-04 19:45:00
+Alitalia,108.0,1978-12-23 00:39:00
+United Air Lines,10.0,1978-12-28 18:15:00
+Allegheny Airlines,2.0,1979-02-12 13:00:00
+Garuda Indonesia Airlines,4.0,1979-03-06 18:55:00
+Swift Aire Lines Inc.,3.0,1979-03-10 17:52:00
+American Airlines,271.0,1979-05-25 15:04:00
+Downeast Airlines,17.0,1979-05-30 20:55:00
+Air New England,1.0,1979-06-17 22:48:00
+Prinair,8.0,1979-07-24 09:22:00
+Aeroflot / Aeroflot,178.0,1979-08-11 13:35:00
+Butler Aviation Inc.,12.0,1979-09-14 20:47:00
+Western Airlines,72.0,1979-10-31 05:42:00
+Pakistan International Airlines,156.0,1979-11-26 02:03:00
+Air New Zealand,257.0,1979-11-28 12:49:00
+LOT Polish Airlines,87.0,1980-03-14 11:00:00
+Dan Air Services,146.0,1980-04-25 13:21:00
+Thai Airways,44.0,1980-04-27 06:55:00
+Air Wisconsin,13.0,1980-06-12 15:46:00
+Itavia,81.0,1980-06-27 20:59:00
+Aeroflot,166.0,1980-07-07 00:39:00
+Saudi Arabian Airlines,301.0,1980-08-19 19:08:00
+Cascade Airways,7.0,1981-01-20 11:27:00
+Air US / Private,15.0,1981-04-17 16:01:00
+Austral Lineas Aeras (Argentina),31.0,1981-05-07 10:53:00
+Far Eastern Air Transport,110.0,1981-08-22 10:00:00
+NLM (Nederlandse Luchtvaart Maatschappij),17.0,1981-10-06 17:12:00
+Inex Adria Aviopromet (Yugoslavia),180.0,1981-12-01 08:53:00
+Air Florida,74.0,1982-01-13 16:01:00
+World Airways,2.0,1982-01-23 19:36:00
+Japan Air Lines,24.0,1982-02-09 08:47:00
+Pilgrim Airlines,1.0,1982-02-21 15:33:00
+Wideroe's Flyveselksap,15.0,1982-03-11 13:26:00
+British Airways,0.0,1982-06-24 20:44:00
+Aeroflot,132.0,1982-06-28 10:50:00
+CAAC,112.0,1982-04-26 16:45:00
+VASP,137.0,1982-06-08 02:25:00
+Pan American World Airways,145.0,1982-07-09 16:09:00
+Spantax,50.0,1982-09-13 12:00:00
+Aeronor Chile,46.0,1982-12-09 13:27:00
+United Air Lines,3.0,1983-01-11 02:50:00
+Munz Northern Airlines,2.0,1983-04-07 14:55:00
+SAN Ecuador,8.0,1983-04-29 15:10:00
+Eastern Air Lines,0.0,1983-05-05 09:15:00
+Air Canada,23.0,1983-06-02 19:20:00
+Air Canada,0.0,1983-07-23 19:30:00
+Korean Airlines,269.0,1983-09-01 18:26:00
+Gulf Air,112.0,1983-09-23 15:30:00
+Air Illinois,10.0,1983-10-11 20:53:00
+AVIANCA,181.0,1983-11-27 10:06:00
+Iberia Airlines / Aviaco,93.0,1983-12-07 09:40:00
+Scandinavian Airlines (SAS),0.0,1984-02-28 16:16:00
+Wings West Airlines / Private,17.0,1984-08-24 11:18:00
+AECA Cargo,4.0,1984-09-18 11:04:00
+Aeroflot,174.0,1984-10-11 05:40:00
+Provincetown - Boston Airlines,13.0,1984-12-06 18:14:00
+Eastern Air Lines,29.0,1985-01-01 20:30:00
+Galaxy Airlines,70.0,1985-01-21 01:04:00
+North PacifiAirlines,9.0,1985-02-04 19:51:00
+Iberia Airlines,148.0,1985-02-19 09:27:00
+China Airlines (Taiwan),0.0,1985-02-19 10:15:00
+General Aviation Inc.,2.0,1985-05-31 23:00:00
+Air India,329.0,1985-06-23 07:15:00
+Aeroflot,200.0,1985-07-10 23:45:00
+Delta Air Lines,134.0,1985-08-02 18:06:00
+Japan Air Lines,520.0,1985-08-12 18:56:00
+British Airtours,55.0,1985-08-22 06:13:00
+Bar Harbor Airlines,8.0,1985-08-25 22:05:00
+Midwest Express,31.0,1985-09-06 15:21:00
+Air Taxi - Henson Airlines,14.0,1985-09-23 10:20:00
+EgyptAir,60.0,1985-11-24 20:15:00
+Arrow Airways,256.0,1985-12-12 06:45:00
+Simmons Airlines,3.0,1986-03-13 22:15:00
+Mexicana,167.0,1986-03-31 09:11:00
+Loganair,1.0,1986-06-12 15:22:00
+Grand Canyon Airlines / Helitech,25.0,1986-06-18 09:33:00
+Aeromexico / Private,67.0,1986-08-31 11:52:00
+Peninsula Air Services,6.0,1986-09-03 15:45:00
+Pan American World Airways,16.0,1986-09-05 06:00:00
+Southern Air Transport,3.0,1986-10-04 04:10:00
+Private - WNBC,2.0,1986-10-22 16:45:00
+Skywest Airlines / Private.,10.0,1987-01-15 12:52:00
+Northwest Airlink,9.0,1987-03-04 14:34:00
+Garuda Indonesia Airlines,27.0,1987-04-04 14:40:00
+American Eagle,2.0,1987-05-08 06:50:00
+LOT Polish Airlines,183.0,1987-05-09 11:12:00
+China Southwest Airlines,108.0,1988-01-18 22:17:00
+Northwest Airlines,154.0,1987-08-16 20:46:00
+Thai Airways,83.0,1987-08-31 15:36:00
+Continental Airlines,28.0,1987-11-15 14:15:00
+Ryan Air Services,18.0,1987-11-23 18:25:00
+Trans Colorado AL / Continental Express,9.0,1988-01-19 19:20:00
+South African Airways,159.0,1987-11-28 04:00:00
+Korean Airlines,115.0,1987-11-29 11:30:00
+PacifiSouthwest Airlines,43.0,1987-12-07 16:16:00
+Condor Flugdienst,16.0,1988-01-02 19:20:00
+NFD - Nurnberger Flugdienst,21.0,1988-02-08 07:58:00
+AV Air / American Eagle,12.0,1988-02-19 21:27:00
+Commercial Airways (Comair),17.0,1988-03-01 17:28:00
+Transport Arien Transregional,23.0,1988-03-04 06:37:00
+AVIANCA,143.0,1988-03-17 13:17:00
+Aloha Airlines,1.0,1988-04-28 13:46:00
+Air France,3.0,1988-06-26 14:45:00
+Iran Air,290.0,1988-07-03 10:55:00
+CAAC,7.0,1988-08-31 09:19:00
+Delta Air Lines,14.0,1988-08-31 09:01:00
+Hang Khong (Vietnam),76.0,1988-09-09 11:38:00
+Ethiopian Airlines,35.0,1988-09-15 13:05:00
+Uganda Airlines,33.0,1988-10-17 00:30:00
+Indian Airlines,124.0,1988-10-19 07:00:00
+Pan American World Airways,259.0,1988-12-21 19:03:00
+British Midland Airways,47.0,1989-01-08 20:25:00
+RAM,3.0,1989-02-06 18:25:00
+Independent Air Inc.,144.0,1989-02-08 14:08:00
+United Air Lines,9.0,1989-02-24 02:09:00
+Air Ontario,24.0,1989-03-10 12:09:00
+Europe Aero Service EAS,22.0,1989-04-10 21:07:00
+Surinam Airways,176.0,1989-06-07 04:27:00
+SceniAir Tours,11.0,1989-06-11 13:30:00
+United Air Lines,112.0,1989-07-19 16:00:00
+Korean Airlines,75.0,1989-07-27 07:00:00
+Air Freight New Zealand,3.0,1989-07-31 22:00:00
+Varig,13.0,1989-09-03 20:45:00
+Partnair,55.0,1989-09-08 16:36:00
+Union des Transportes Aeriens,171.0,1989-09-19 14:00:00
+USAir,2.0,1989-09-20 23:21:00
+Grand Canyon Airlines,10.0,1989-09-27 09:53:00
+TAN,127.0,1989-10-21 07:53:00
+China Airlines (Taiwan),54.0,1989-10-26 18:55:00
+Aloha Island Air,20.0,1989-10-28 18:37:00
+AVIANCA,107.0,1989-11-27 07:16:00
+United Express,6.0,1989-12-26 22:30:00
+SANSA,23.0,1990-01-15 08:30:00
+Federal Express,1.0,1990-01-17 07:19:00
+Military - Venezuelan Navy,25.0,1990-01-23 07:35:00
+AVIANCA,73.0,1990-01-25 21:34:00
+Indian Airlines,92.0,1990-02-14 13:03:00
+Wideroe's Flyveselksap,5.0,1990-04-12 14:44:00
+Aerolift Philippines,21.0,1990-05-18 06:25:00
+British Airways,0.0,1990-06-10 07:33:00
+Private - Omniflight Helicopters,5.0,1990-08-27 01:00:00
+China Southwest Airlines / Xiamen Airlines,128.0,1990-10-02 09:15:00
+Cubana de Aviacion,11.0,1990-10-24 01:58:00
+Alitalia,46.0,1990-11-14 19:11:00
+Ryan International Airlines,2.0,1991-02-17 00:20:00
+Bangkok Airways,38.0,1990-11-21 11:15:00
+Northwest Airlines/ Northwest Airlines,8.0,1990-12-03 13:45:00
+USAir / Skywest Airlilnes,34.0,1991-02-01 18:07:00
+United Air Lines,25.0,1991-03-03 09:44:00
+Linea Aeropostal Venezolana,45.0,1991-03-05 16:15:00
+AtlantiSoutheast Airlines,23.0,1991-04-05 14:51:00
+Lauda Air,223.0,1991-05-26 23:17:00
+Agape Flight Inc.,2.0,1991-06-01 10:16:00
+L'Express Airlines,13.0,1991-07-10 18:12:00
+Nationair (chartered by Nigeria Airways),261.0,1991-07-11 08:40:00
+Indian Airlines,69.0,1991-08-16 01:55:00
+Continental Express,14.0,1991-09-11 10:03:00
+Scandinavian Airlines (SAS),0.0,1991-12-27 08:51:00
+China Airlines (Taiwan),5.0,1991-12-29 15:05:00
+Commutair,2.0,1992-01-03 05:46:00
+Air Inter,87.0,1992-01-20 19:20:00
+ATI,3.0,1992-02-15 03:26:00
+USAir,27.0,1992-03-22 21:35:00
+SceniAir Tours,9.0,1992-04-22 15:53:00
+GP Express Airlines,3.0,1992-06-08 08:52:00
+Pakistan International Airlines,167.0,1992-09-28 14:30:00
+Trans World Airlines,0.0,1992-07-30 17:41:00
+Thai Airways,113.0,1992-07-31 12:45:00
+China General Aviation Corporation,108.0,1992-07-31 15:12:00
+Aeroflot,84.0,1992-08-27 22:44:00
+El Al,4.0,1992-10-04 17:35:00
+Vietnam Airlines,30.0,1992-11-14 07:10:00
+China Southern Airlines,141.0,1992-11-24 07:52:00
+Martinair Holland NV,56.0,1992-12-21 07:53:00
+Libya Arab Airlines / Military -  Libya Air Force,157.0,1992-12-22 10:00:00
+Lufthansa Cityline,4.0,1993-01-06 19:20:00
+Palair Macedonian,83.0,1993-03-05 11:12:00
+China Eastern Airlines,2.0,1993-04-06 01:10:00
+Private,8.0,1993-04-19 15:52:00
+Indian Airlines,56.0,1993-04-26 13:00:00
+SAM Colombia,132.0,1993-05-19 15:04:00
+China Northwest Airlines,55.0,1993-07-23 15:40:00
+Asiana Airlines,68.0,1993-07-26 15:48:00
+American International Airways,0.0,1993-08-18 16:56:00
+Lufthansa,2.0,1993-09-14 15:33:00
+China Eastern Airlines,2.0,1993-10-26 13:04:00
+Air Manitoba,7.0,1993-11-10 18:05:00
+China Northern Airlines,12.0,1993-11-13 14:55:00
+Aviaimpex (Macedonia),116.0,1993-11-20 23:30:00
+Express Airlines - Northwest Airlink,18.0,1993-12-01 19:50:00
+Baikal Air,124.0,1994-01-03 12:07:00
+AtlantiCoast Airlines (United Express),5.0,1994-01-07 23:21:00
+British World Airways,1.0,1994-02-25 19:46:00
+Continental Airlines,0.0,1994-03-02 17:59:00
+Military - Iranian Air Force,32.0,1994-03-17 22:30:00
+Aeroflot Russian International Airways,75.0,1994-03-23 00:57:00
+KLM Cityhopper,3.0,1994-04-04 14:46:00
+China Airlines (Taiwan),264.0,1994-04-26 20:16:00
+China Northwest Airlines,160.0,1994-06-06 08:20:00
+Air Ivorie,17.0,1994-06-26 19:35:00
+Airbus Industrie,7.0,1994-06-30 17:41:00
+USAir,37.0,1994-07-02 18:43:00
+Korean Airlines,0.0,1994-08-10 11:22:00
+USAir,132.0,1994-09-08 19:03:00
+Iran Asseman Airlines,66.0,1994-10-12 22:50:00
+American Eagle,68.0,1994-10-31 15:59:00
+Philippine Air Lines,1.0,1994-12-10 11:30:00
+American Eagle,15.0,1994-12-13 18:34:00
+Phoenix Aviation,5.0,1994-12-21 09:53:00
+Air France,3.0,1994-12-26 17:00:00
+Turkish Airlines (THY),57.0,1994-12-29 15:30:00
+Intercontinental de Aviacion,51.0,1995-01-11 19:38:00
+Royal Nepal Airlines,2.0,1995-01-17 13:59:00
+Las Vegas Airlines,8.0,1995-02-13 15:36:00
+Transporturile Aeriene Romane (TAROM),60.0,1995-03-31 09:11:00
+Bearskin Airlines / Air Sandy,8.0,1995-05-01 13:28:00
+Knight Air,12.0,1995-05-24 16:51:00
+ValuJet,0.0,1995-06-08 19:08:00
+Ansett New Zealand,5.0,1995-06-09 09:22:00
+Aviateca,65.0,1995-08-09 20:14:00
+AtlantiSoutheast Airlines,10.0,1995-08-21 12:53:00
+Malaysia Airlines,34.0,1995-09-15 12:22:00
+Military - U.S. Air Force,24.0,1995-09-22 07:45:00
+Western Straits Air,8.0,1995-09-27 19:10:00
+Sabang Merauke Raya Air Charter,1.0,1995-10-03 08:00:00
+Nigeria Airways,9.0,1995-11-13 08:55:00
+Cameroon Airlines,72.0,1995-12-03 22:44:00
+Far East Aviation,98.0,1995-12-07 05:20:00
+Romanian Banat Air,49.0,1995-12-13 19:00:00
+American Airlines,160.0,1995-12-20 21:38:00
+"Alas Nacionales, leased from Birgen Air",189.0,1996-02-06 23:47:00
+Compania de Aviacion Faucett SA (Peru),123.0,1996-02-29 20:25:00
+Military - U.S. Air Force,35.0,1996-04-03 14:52:00
+ValuJet,110.0,1996-05-11 14:15:00
+Garuda Indonesia Airlines,3.0,1996-06-13 12:07:00
+Delta Air Lines,2.0,1996-07-06 15:42:00
+Trans World Airlines,230.0,1996-07-17 20:31:00
+Northern Air Cargo,4.0,1996-07-20 15:15:00
+First Air,2.0,1996-08-12 13:47:00
+Vnokovo Airlines,141.0,1996-08-29 10:22:00
+Aeroperu,70.0,1996-10-02 01:16:00
+Aeroflot,2.0,1996-10-08 10:50:00
+Telford Aviation,8.0,1996-10-20 12:12:00
+TAM (Brazil),95.0,1996-10-31 08:27:00
+Aviation Development Corporation,143.0,1996-11-07 17:00:00
+Saudi Arabian Airlines / Kazastan Airlines,349.0,1996-11-12 18:40:00
+United Express  / Private,14.0,1996-11-19 17:01:00
+Ethiopian Airlines,127.0,1996-11-23 15:15:00
+ACES Colombia,14.0,1996-11-30 10:33:00
+Airborne Express,6.0,1996-12-22 18:10:00
+Polynesian Airlines,3.0,1997-01-07 11:00:00
+Comair,29.0,1997-01-09 15:54:00
+Varig,1.0,1997-02-14 12:34:00
+Stavropol Airlines,50.0,1997-03-18 10:04:00
+Hageland Aviation Services,5.0,1997-04-10 20:30:00
+Merpati Nusantara Airlines,15.0,1997-04-19 07:39:00
+China Southern Airlines,35.0,1997-05-08 21:28:00
+TAM (Brazil),1.0,1997-07-09 09:30:00
+Cubana de Aviacion,44.0,1997-07-11 21:55:00
+Sempati Air,30.0,1997-07-17 11:56:00
+Air Littoral,1.0,1997-07-30 10:30:00
+Korean Airlines,229.0,1997-08-06 01:42:00
+Fine Air,4.0,1997-08-07 12:36:00
+Formosa Airlines,16.0,1997-08-10 08:15:00
+Vietnam Airlines,65.0,1997-09-03 14:00:00
+Borneo Airways,10.0,1997-09-06 19:44:00
+Garuda Indonesia Airlines,234.0,1997-09-26 13:34:00
+SceniAirlines,9.0,1997-10-08 07:23:00
+Austral Lineas Aeras (Argentina),74.0,1997-10-10 22:23:00
+Hageland Aviation Services,8.0,1997-11-08 08:08:00
+Sowind Air,4.0,1997-12-09 15:26:00
+Tajikistan Airlines,85.0,1997-12-16 18:35:00
+Aerosweet Airlines (LVOV),70.0,1997-12-17 21:13:00
+SilkAir,104.0,1997-12-19 16:13:00
+United Air Lines,1.0,1997-12-28 23:10:00
+Myanmar Airways,16.0,1998-01-27 11:45:00
+Cebu PacifiAir,104.0,1998-02-02 11:00:00
+China Airlines (Taiwan),196.0,1998-02-16 20:09:00
+Baron Aviation,1.0,1998-03-05 05:20:00
+Formosa Airlines,13.0,1998-03-18 19:31:00
+Philippine Air Lines,0.0,1998-03-22 19:42:00
+Fuerza Aérea del Peru,22.0,1998-03-28 09:35:00
+Air France,53.0,1998-04-20 16:47:00
+Propair,11.0,1998-06-18 07:28:00
+Alliance Airlines,6.0,1998-07-30 11:05:00
+Minerva Airlines,4.0,1999-02-25 12:30:00
+Proteus Air / Private,15.0,1998-07-30 15:58:00
+Harbour Air Seaplanes Ltd.,5.0,1998-08-04 17:58:00
+Myanmar Airways,44.0,1998-08-24 08:35:00
+Cubana de Aviacion,70.0,1998-08-29 13:03:00
+Swissair,229.0,1998-09-02 21:30:00
+Paukn Air,38.0,1998-09-25 09:00:00
+Lionair,55.0,1998-09-29 13:50:00
+Regency Express Air,2.0,1998-11-23 00:30:00
+Thai Airways,102.0,1998-12-11 19:10:00
+Transafrik,14.0,1998-12-26 12:00:00
+China Southwest Airlines,61.0,1999-02-24 16:34:00
+Provincial Airlines,1.0,1999-03-19 09:45:00
+Turkish Airlines (THY),6.0,1999-04-07 00:33:00
+Korean Air,3.0,1999-04-15 16:05:00
+American Airlines,11.0,1999-06-01 23:50:00
+Nightexpress,2.0,1999-06-30 02:42:00
+Lufthansa Cargo Airlines,5.0,1999-07-07 19:51:00
+Private,3.0,1999-07-16 21:41:00
+La Costena,16.0,1999-07-20 11:00:00
+Air Fiji,17.0,1999-07-24 05:35:00
+Private,10.0,1999-07-31 08:30:00
+TACV-Cabo Verde Airlines,18.0,1999-08-07 12:00:00
+Regionnair,1.0,1999-08-12 23:58:00
+Uni Air,1.0,1999-08-24 12:36:00
+"LAPA, Lineas Aereas Privadas Argentinas",64.0,1999-08-31 20:55:00
+Edinburgh Air Charter,8.0,1999-09-03 12:50:00
+Necon Air,15.0,1999-09-05 10:30:00
+Big Island Airlines,10.0,1999-09-25 17:25:00
+EgyptAir,217.0,1999-10-31 06:52:00
+TAESA,18.0,1999-11-09 19:03:00
+Si Fly - U.N. charter,24.0,1999-11-12 11:13:00
+Charter - Flightline Charter Services,9.0,1999-12-06 07:06:00
+Charter - Twin Air HB,8.0,1999-12-09 12:04:00
+SATA,35.0,1999-12-11 09:20:00
+Cubana de Aviacon,16.0,1999-12-21 09:40:00
+Korean Air,4.0,1999-12-22 18:38:00
+Cubana de Aviacion,22.0,1999-12-25 20:15:00
+Crossair,10.0,2000-01-10 17:54:00
+Kenya Airways,169.0,2000-01-30 21:08:00
+Alaska Airlines,88.0,2000-01-31 16:21:00
+Emery Worldwide,3.0,2000-02-16 19:50:00
+Southwest Airlines,0.0,2000-03-05 18:11:00
+Air Philippines,131.0,2000-04-19 07:02:00
+Executive Airlines,19.0,2000-05-21 11:28:00
+Streamline,1.0,2000-05-25 02:50:00
+Whyalla Airlines,8.0,2000-05-31 19:05:00
+Ghana Airlink,7.0,2000-06-05 11:35:00
+ANT Air Taxi,5.0,2000-06-14 09:50:00
+Wuhan Airlines,44.0,2000-06-22 15:16:00
+Aerocaribe,19.0,2000-07-08 19:50:00
+Indian Airlines/Alliance Airlines,55.0,2000-07-17 07:34:00
+Airwave Transport,2.0,2000-07-19 00:30:00
+Air France,109.0,2000-07-25 16:44:00
+Military - Fuerza Aérea de Chile,14.0,2000-08-06 15:55:00
+Gulf Air,143.0,2000-08-23 19:30:00
+Big Island Airlines,1.0,2000-08-25 17:30:00
+SANSA,10.0,2000-08-26 12:10:00
+Cape Smythe Air Service,5.0,2000-09-18 15:10:00
+Aeromexico,0.0,2000-10-06 16:55:00
+Empire Airlines,1.0,2000-10-09 09:50:00
+Lao Aviation,8.0,2000-10-19 12:12:00
+Singapore Airlines,83.0,2000-10-31 23:17:00
+Rutaca Airlines,24.0,2001-01-25 18:15:00
+Loganair,2.0,2001-02-27 17:30:00
+Thai Airways,1.0,2001-03-03 14:48:00
+Air Caraibes,19.0,2001-03-24 16:30:00
+Jetwingsco Inc. - Private Charter,18.0,2001-03-29 19:01:00
+Vladivostokavia,145.0,2001-07-04 02:08:00
+Canadian Air Transat,0.0,2001-08-24 18:46:00
+Blackhawk Int. Airways  - Private charter,9.0,2001-08-25 18:45:00
+Binter Mediterráneo,4.0,2001-08-29 10:15:00
+United Air Lines,44.0,2001-09-11 10:03:00
+American Airlines,64.0,2001-09-11 09:45:00
+American Airlines,92.0,2001-09-11 08:47:00
+United Air Lines,65.0,2001-09-11 09:03:00
+Aero Ferinco Charter,19.0,2001-09-12 16:25:00
+AtlantiAirlines,9.0,2001-09-18 07:30:00
+Sibir Airlines,78.0,2001-10-04 13:44:00
+Scandinavian Airlines (SAS) / Private,114.0,2001-10-08 08:10:00
+PenAir,10.0,2001-10-10 09:26:00
+Flightline,10.0,2001-10-10 10:42:00
+American Airlines,260.0,2001-11-12 09:16:00
+Charter - IRS Aero,27.0,2001-11-19 21:19:00
+Crossair,24.0,2001-11-24 22:07:00
+SANSA,3.0,2001-11-28 11:48:00
+"Military - Russian, cargo",18.0,2001-12-01 12:54:00
+Air Cargo Express,2.0,2001-12-10 18:21:00
+Ibertrans Aérea,3.0,2002-01-14 07:28:00
+Garuda Indonesia Airlines,1.0,2002-01-16 16:29:00
+TAME,92.0,2002-01-28 11:00:00
+Iran Air Tours,117.0,2002-02-12 07:50:00
+Military - Russian Navy,17.0,2002-02-21 20:44:00
+Military - U.S. Army,10.0,2002-02-22 02:30:00
+Svedijos Prekés,3.0,2002-03-09 13:40:00
+Tadair,2.0,2002-04-12 04:07:00
+Air China,128.0,2002-04-15 11:23:00
+EAS Airlines (Executive Airline Services),74.0,2002-05-04 13:30:00
+EgyptAir,14.0,2002-05-07 15:17:00
+China Northern Airlines,112.0,2002-05-07 21:32:00
+China Airlines (Taiwan),225.0,2002-05-25 15:29:00
+Bashkirian Airlines / DHL Worldwide Express,71.0,2002-07-01 23:36:00
+Bristow Helicopters,11.0,2002-07-16 19:45:00
+Military - U.S. Air Force,10.0,2002-08-07 22:00:00
+Mid-AtlantiFreight,1.0,2002-10-23 19:45:00
+Aviation Charter - Air Taxi,8.0,2002-10-25 10:22:00
+Luxair,20.0,2002-11-06 10:10:00
+Laoag International Airlines,19.0,2002-11-11 06:09:00
+Eagle Aviation,1.0,2002-11-28 14:15:00
+Planemasters,1.0,2002-12-17 22:51:00
+Aeromist-Kharkiv,44.0,2002-12-23 19:30:00
+Turkish Airlines (THY),75.0,2003-01-08 20:28:00
+US Air Express/Air Midwest,21.0,2003-01-08 08:53:00
+TANS Airlines,46.0,2003-01-09 08:43:00
+Enimex,2.0,2003-02-10 19:42:00
+Military - Pakistan Air Force,17.0,2003-02-20 08:52:00
+Private - Kabanov - skydiving,11.0,2003-03-01 14:25:00
+Air Algerie,102.0,2003-03-06 15:45:00
+Morris Hancock Flying Club - Charter,3.0,2003-03-28 15:49:00
+Ukranian-Mediterranean Airlines,75.0,2003-05-26 04:45:00
+Charter - Air Adventures New Zealand Ltd,8.0,2003-06-06 19:15:00
+Brit Air,1.0,2003-06-22 23:55:00
+Sudan Airways,116.0,2003-07-08 04:00:00
+Ryan Blake Air Charter,14.0,2003-07-19 18:00:00
+Tropical Airways,21.0,2003-08-24 14:00:00
+Wasaya Airways,8.0,2003-09-11 20:30:00
+Ameristar Jet Charter,1.0,2003-09-19 17:10:00
+Air Freight New Zealand,2.0,2003-10-03 21:25:00
+FedEx,1.0,2003-10-29 08:51:00
+Ameriflight,1.0,2003-11-29 08:01:00
+Union des Transports Aeriens de Guinee,140.0,2003-12-25 14:55:00
+Flash Air,148.0,2004-01-03 04:44:00
+Uzbekistan Airways,37.0,2004-01-13 19:40:00
+Georgia Express,10.0,2004-01-17 16:40:00
+Kish Airlines,43.0,2004-02-10 11:40:00
+Rico Linhas Aereas,33.0,2004-05-14 18:30:00
+Yeti Airlines,3.0,2004-05-25 13:56:00
+Gabon Express,19.0,2004-06-08 09:38:00
+Air Taroma,1.0,2004-08-13 00:50:00
+Alpine Air Express,2.0,2004-08-17 23:40:00
+Sibir Airlines,46.0,2004-08-24 22:59:00
+Volga-Avia Express,41.0,2004-08-24 22:56:00
+Presidental Airways Inc. - Air Taxi,6.0,2004-11-27 11:20:00
+Pinnacle Airlines/Northwest Airlink,2.0,2004-10-14 22:15:00
+MK Airlines,7.0,2004-10-14 03:56:00
+Corporate Airlines (American Connection),13.0,2004-10-19 07:45:00
+Venezolana,3.0,2004-11-18 13:02:00
+Glow Air/Air Castle - Charter,3.0,2004-11-28 09:55:00
+Lion Air,26.0,2004-11-30 18:14:00
+Kam Air,104.0,2005-02-03 17:00:00
+Action Air Express Inc. - Air Taxi,2.0,2005-02-10 20:30:00
+Marsland Aviation,7.0,2005-06-02 11:15:00
+Air France,0.0,2005-08-02 16:04:00
+Tuninter,16.0,2005-08-06 15:40:00
+Helios Airways,121.0,2005-08-14 12:20:00
+TANS Peru,40.0,2005-08-23 15:06:00
+Mandala Airlines,99.0,2005-09-05 09:40:00
+Morningstar Air Express,1.0,2005-10-06 05:40:00
+Bellview Airlines,117.0,2005-10-22 20:40:00
+Southwest Airlines,0.0,2005-12-08 19:15:00
+Sosoliso Airlines,108.0,2005-12-10 14:08:00
+Chalk's Ocean Airways,20.0,2005-12-19 14:40:00
+Azerbaijan Airlines,23.0,2005-12-23 22:27:00
+Team Air,19.0,2006-03-31 17:35:00
+Armavia,113.0,2006-05-03 02:15:00
+Sibir (S7),128.0,2006-07-09 07:44:00
+Pakistan International Airlines,45.0,2006-07-10 12:05:00
+AirNow,1.0,2006-08-04 09:30:00
+Air Algerie,3.0,2006-08-13 20:15:00
+Pulkovo Airlines,170.0,2006-08-22 15:30:00
+Comair,49.0,2006-08-27 06:07:00
+Gol Airlines / Private,154.0,2006-09-29 15:59:00
+AtlantiAirways,4.0,2006-10-10 07:35:00
+ADC Airlines,96.0,2006-10-29 11:30:00
+Adam Air,102.0,2007-01-01 14:07:00
+Regional Compagnie Aerienne Europeenne,0.0,2007-01-25 11:15:00
+Garuda Indonesia Airlines,22.0,2007-03-07 07:14:00
+UTAir Airlines,6.0,2007-03-17 11:40:00
+PMT Air,22.0,2007-06-25 10:40:00
+TAM (Brazil),187.0,2007-07-17 18:52:00
+Atran,9.0,2007-07-29 04:22:00
+Air Moorea,20.0,2007-08-09 12:00:00
+One-Two-Go Airlines,90.0,2007-09-16 15:35:00
+Atlasjet Airlines,57.0,2007-11-30 01:36:00
+Santa Barbara Airlines,46.0,2008-02-21 17:00:00
+Alpine Aviation ,1.0,2008-05-23 01:25:00
+TACA International Airlines,3.0,2008-05-30 09:40:00
+Sudan Airways,32.0,2008-06-10 20:45:00
+USA Jet Airlines,1.0,2008-07-06 02:15:00
+East Coast Jets,8.0,2008-07-31 09:53:00
+Spanair,154.0,2008-08-20 14:45:00
+Itek Air,68.0,2008-08-24 20:30:00
+Aeroflot,88.0,2008-09-14 03:15:00
+US Airways,0.0,2009-01-15 15:06:00
+Continental Connection/Colgan Air,49.0,2009-02-12 22:17:00
+Turkish Airlines,9.0,2009-02-25 10:31:00
+FedEx,2.0,2009-03-23 06:48:00
+Mimika Air,11.0,2009-04-17 10:30:00
+Air France,228.0,2009-06-01 00:15:00
